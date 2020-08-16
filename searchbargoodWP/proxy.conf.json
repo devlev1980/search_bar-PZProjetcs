@@ -1,0 +1,8 @@
+{
+  "/api/*": {
+    "target": "https://projects1.sharepoint.com/sites/Yevgeny",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}

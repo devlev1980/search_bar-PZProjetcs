@@ -1,0 +1,40 @@
+GET https://projects1.sharepoint.com/sites/Yevgeny/_api/SP.UserProfiles.PeopleManager/
+Accept: application/json;odata=verbose
+
+<> 2020-08-16T032159.403.json
+
+###
+
+GET https://_api/SP.UserProfiles.PeopleManager/
+Accept: application/json;odata=verbose
+
+###
+
+GET https://projects1.sharepoint.com/sites/Yevgeny/_api/SP.UserProfiles.PeopleManager/
+Accept: application/json;odata=verbose
+
+<> 2020-08-16T032056.403.json
+
+###
+
+GET https://projects1.sharepoint.com/sites/Yevgeny/_api/sp.userprofiles.peoplemanager/
+Accept: application/json;odata=verbose
+
+<> 2020-08-16T031947.403.json
+
+###
+
+GET https://projects1.sharepoint.com/sites/Yevgeny/_api/sp.userprofiles.peoplemanager/
+Accept: application/json
+
+<> 2020-08-16T031910.403.json
+
+###
+
+GET https://projects1.sharepoint.com/sites/Yevgeny
+Accept: application/json
+
+<> 2020-08-16T031746.403.txt
+
+###
+

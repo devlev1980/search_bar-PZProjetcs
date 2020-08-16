@@ -14,7 +14,6 @@ import {IUser} from '../models/user';
 import {FormGroup} from '@angular/forms';
 
 
-
 @Component({
   selector: 'app-searchbargood-spfx-web-part',
   templateUrl: './searchbargood-spfx-web-part.component.html',
@@ -42,7 +41,11 @@ export class SearchbargoodSpfxWebPartComponent implements OnInit {
   }
 
   ngOnInit() {
-    this.users$ = this.userService.getUsers();
+    // this.users$ = this.userService.getUsers();
+    this.userService.getUsers().subscribe(data => {
+      console.log(data);
+    });
+
   }
 
   onSelectUser(user: IUser) {
