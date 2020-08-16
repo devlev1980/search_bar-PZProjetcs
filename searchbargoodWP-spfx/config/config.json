@@ -1,0 +1,20 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "searchbargood-spfx-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/searchbargoodSpfx/SearchbargoodSpfxWebPart.js",
+          "manifest": "./src/webparts/searchbargoodSpfx/SearchbargoodSpfxWebPart.manifest.json",
+          "entryModule": "./src/webparts/searchbargoodSpfx/elements/searchbargoodSpfx",
+          "entryModuleName": "SearchbargoodSpfxWebPart"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SearchbargoodSpfxWebPartStrings": "lib/webparts/searchbargoodSpfx/loc/{locale}.js"
+  }
+}

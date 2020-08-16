@@ -1,0 +1,24 @@
+<div class="container" #autocomplete >
+  <div class="searchbar_container" >
+    <input type="text" class="autocomplete"  (click)="showUsers= true" (input)="onInput()"  [(ngModel)]="selectedUser"  >
+  </div>
+  <div class="users" *ngIf="showUsers" >
+    <ul >
+      <li *ngFor="let user of users$ | async | searchUser: selectedUser  " (click)="onSelectUser(user)">
+        <div class="user_info__wrapper">
+          <div class="img__wrapper">
+            <img src="assets/img/contact.png" alt="">
+          </div>
+          <div class="user__info"  >
+            <span class="user__info-name" #username [innerHTML]="user.name | highlight: selectedUser"></span>
+            <span class="user__info-email">{{user.email}}</span>
+          </div>
+        </div>
+      </li>
+    </ul>
+    <div class="footer">Search Directory for {{selectedUser}}</div>
+  </div>
+
+</div>
+
+
