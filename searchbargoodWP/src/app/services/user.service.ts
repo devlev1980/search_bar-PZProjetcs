@@ -2,7 +2,6 @@ import {Injectable} from '@angular/core';
 import {from, Observable} from 'rxjs';
 import {IUser} from '../models/user';
 import {users} from '../../assets/mock/users';
-import {sp} from '@pnp/sp';
 
 
 
@@ -15,7 +14,6 @@ export class UserService {
 
   constructor() {
     this.users = users;
-    console.log(sp.web.siteUsers);
 
 
   }

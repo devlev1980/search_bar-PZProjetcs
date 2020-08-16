@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60c28121-11f4-43df-b019-746ecf06493e" name="Default Changelist" comment="" />
+    <list default="true" id="60c28121-11f4-43df-b019-746ecf06493e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchbargoodWP/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/searchbargoodWP/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchbargoodWP/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/searchbargoodWP/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchbargoodWP/src/app/services/user.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/searchbargoodWP/src/app/services/user.service.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,16 +39,16 @@
     <property name="ts.external.directory.path" value="C:\Users\ASUS\Documents\Dev_projects\Mobileye\Search_bar_good\searchbargoodWP\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Documents\Dev_projects\Mobileye\Search_bar_good\searchbargoodWP-spfx\temp" />
+      <recent name="C:\Users\ASUS\Documents\Dev_projects\Mobileye\Search_bar_good\searchbargoodWP\src" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Documents\Dev_projects\Mobileye\Search_bar_good\searchbargoodWP-spfx\temp\assets\img" />
       <recent name="C:\Users\ASUS\Documents\Dev_projects\Mobileye\Search_bar_good\searchbargoodWP-spfx\temp" />
       <recent name="C:\Users\ASUS\Documents\Dev_projects\Mobileye\Search_bar_good\searchbargoodWP\src\app\assets" />
       <recent name="C:\Users\ASUS\Documents\Dev_projects\Mobileye\Search_bar_good\searchbargoodWP\src\app\img" />
       <recent name="C:\Users\ASUS\Documents\Dev_projects\Mobileye\Search_bar_good\searchbargoodWP\src\assets" />
-      <recent name="C:\Users\ASUS\Documents\Dev_projects\Mobileye\Search_bar_good\searchbargoodWP\src\app" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ASUS\Documents\Dev_projects\Mobileye\Search_bar_good\searchbargoodWP-spfx\temp" />
-      <recent name="C:\Users\ASUS\Documents\Dev_projects\Mobileye\Search_bar_good\searchbargoodWP\src" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -61,38 +66,66 @@
       <workItem from="1597564966668" duration="1479000" />
       <workItem from="1597566518846" duration="14000" />
       <workItem from="1597570242990" duration="2664000" />
-      <workItem from="1597574832686" duration="316000" />
+      <workItem from="1597574832686" duration="495000" />
+      <workItem from="1597575343545" duration="634000" />
     </task>
+    <task id="LOCAL‎00001" summary="add project">
+      <created>1597575252614</created>
+      <option name="number" value="LOCAL‎00001" />
+      <option name="presentableId" value="LOCAL‎00001" />
+      <updated>1597575252614</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add project" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1597565947538">
+    <state x="714" y="389" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1597575329082">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597565947538" />
-    <state width="1860" height="271" key="GridCell.Tab.0.bottom" timestamp="1597564954016">
+    <state x="714" y="389" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597575329082" />
+    <state x="542" y="97" key="CommitChangelistDialog2" timestamp="1597575250357">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597564954016" />
-    <state width="1860" height="271" key="GridCell.Tab.0.center" timestamp="1597564954016">
+    <state x="542" y="97" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597575250357" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1597575324493">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="271" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597564954016" />
-    <state width="1860" height="271" key="GridCell.Tab.0.left" timestamp="1597564954016">
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597575324493" />
+    <state width="1899" height="274" key="GridCell.Tab.0.bottom" timestamp="1597575872248">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="271" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597564954016" />
-    <state width="1860" height="271" key="GridCell.Tab.0.right" timestamp="1597564954016">
+    <state width="1899" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597575872248" />
+    <state width="1899" height="274" key="GridCell.Tab.0.center" timestamp="1597575872248">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="271" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597564954016" />
+    <state width="1899" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597575872248" />
+    <state width="1899" height="274" key="GridCell.Tab.0.left" timestamp="1597575872248">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597575872248" />
+    <state width="1899" height="274" key="GridCell.Tab.0.right" timestamp="1597575872248">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597575872248" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1597574768406">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597574768406" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597575257644">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597575257644" />
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1597575149501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597575149501" />
     <state x="901" y="408" width="348" height="298" key="org.angular.cli.generate" timestamp="1597317034296">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
